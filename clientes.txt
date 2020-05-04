@@ -1,0 +1,5 @@
+Andrei Florez,10,1000
+John Valencia,20,4000
+Claudia,30,9000
+William,40,20000001
+Sofia,50,20000004
